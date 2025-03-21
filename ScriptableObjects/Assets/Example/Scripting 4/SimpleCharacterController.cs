@@ -73,7 +73,7 @@ public class SimpleCharacterController : MonoBehaviour
         thisTransform.position = currentPosition;
     }
 
-    private void StaminaFunction()
+    public void StaminaFunction()
     {
         keypressEvent.Invoke();
     }

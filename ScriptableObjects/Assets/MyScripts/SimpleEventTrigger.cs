@@ -15,5 +15,5 @@ public class SimpleEventTrigger : MonoBehaviour
         UnityEngine.Debug.Log("Player has interacted with " + gameObject.name);
     }
 
-
+  
 }
